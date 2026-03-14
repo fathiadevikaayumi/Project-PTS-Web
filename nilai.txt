@@ -1,0 +1,3 @@
+aya|Matematika|60
+yaya|Matematika|30
+FATHIA|Matematika|0
